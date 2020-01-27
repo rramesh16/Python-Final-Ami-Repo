@@ -1,0 +1,7 @@
+DEPENDENCIES
+  Chef_App_DevEnv_AMI
+    git: git@github.com:rramesh16/python_production_AMI.git
+    revision: 4ffa9983159c307b543755421bd2acc7cdb31639
+
+GRAPH
+  Chef_App_DevEnv_AMI (0.1.0)
